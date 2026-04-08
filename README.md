@@ -149,7 +149,7 @@ cuadrados_1.png,azul,470,90,140,140
 
 ## 👨‍💻 Autor
 
-Proyecto creado como práctica de visión por computador.
+Sofia Foguet Garcia
 
 ---
 
